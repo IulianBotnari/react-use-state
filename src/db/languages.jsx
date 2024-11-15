@@ -1,4 +1,4 @@
-export default languages = [
+export default [
   {
     id: 1,
     title: "HTML",
