@@ -7,7 +7,14 @@ function App() {
 
   return (
     <>
+      <h1 className='title'>Learn Web development</h1>
+      <div className='container'>
+        <div className='buttons'>
 
+        </div>
+
+
+      </div>
     </>
   )
 }
